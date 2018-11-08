@@ -10,7 +10,7 @@ This lab requires you to deal with one of the popular probability problems. i.e.
 You will be able to:
 * Understand and describe the Monty Hall problem in probabilistic terms
 * Solve the Monty Hall problem using Bayesian Logic and mathematical manipulations
-* Run a simulation to find the optimal answer for the problem, and check if it matches your calculations.
+* Run a simulation to find the optimal answer for the problem, and check if it matches your calculations
 
 ## The Problem
 
