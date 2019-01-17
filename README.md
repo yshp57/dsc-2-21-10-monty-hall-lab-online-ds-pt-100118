@@ -1,5 +1,5 @@
 
-#  Bayes' Rule and The Monte Hall Problem - Lab
+#  The Monty Hall Problem - Lab
 
 ## Introduction
 
